@@ -3,7 +3,7 @@
 
 ## How to use:
 
-Clone/Download this repo to your folder of choice, and open up your terminal or command prompt and then...
+Clone/Download this repo to your folder of choice, and make sure to add the `client_secret.json` file I e-mailed you. Then open up your terminal or command prompt and...
 
 #### 1) Activate virtual environment
 
